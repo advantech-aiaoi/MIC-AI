@@ -1,5 +1,9 @@
 # MIC-711-OX3A1
 ## BSP and SOP link
-[Download] from **[dropbox](https://developer.nvidia.com/embedded-computing)** 
+[Download] from **[dropbox](https://abc)** 
 ## Release Note
-[20241201] Ver. x.y **[Release Note](docs/ReleaseNote-x.y.md)**
+**[Version x.y] [release note](docs/ReleaseNote-x.y.md)**
+#### major changes
+* [item 1]
+* [item 2]
+
